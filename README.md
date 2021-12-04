@@ -19,7 +19,13 @@
 
 ### 포트폴리오 영상
 
-- [https://youtube.com/playlist?list=PLUg9a0kyCgTR3OhYZYSMauDmjv6D96pVz](https://youtube.com/playlist?list=PLUg9a0kyCgTR3OhYZYSMauDmjv6D96pVz)        
+- [https://youtube.com/playlist?list=PLUg9a0kyCgTR3OhYZYSMauDmjv6D96pVz](https://youtube.com/playlist?list=PLUg9a0kyCgTR3OhYZYSMauDmjv6D96pVz)      
+
+### 관심 분야
+
+- 게임 엔진
+- 최적화
+- 자동화 툴, 개발 툴
 
 ### 출시작
 2016년 : 퇴직 후 치킨집 - [플레이스토어](https://play.google.com/store/apps/details?id=kr.Hours30000.ChickenShopAfterRetire&hl=ko&gl=US) ( 1인 개발, 유니티 )      
