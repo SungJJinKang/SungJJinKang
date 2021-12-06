@@ -1,4 +1,4 @@
-## Modesty is shining light ⚡⚡
+## Game programmer make his dream come true, Game engine programmer help other's dream come true! ⚡⚡
 
 [개인 블로그](https://sungjjinkang.github.io/) 🌱
 
