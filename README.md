@@ -25,7 +25,7 @@
 
 - 게임 엔진
 - 최적화
-- 자동화 툴, 개발 툴
+- 자동화 툴, 개발 툴, 모듈화
 
 ### 출시작
 2016년 : 퇴직 후 치킨집 - [플레이스토어](https://play.google.com/store/apps/details?id=kr.Hours30000.ChickenShopAfterRetire&hl=ko&gl=US) ( 1인 개발, 유니티 )      
