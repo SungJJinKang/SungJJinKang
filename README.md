@@ -1,4 +1,4 @@
-## Game programmer make his dream come true, Game engine programmer help other's dream come true! ⚡⚡
+## Done Is Better Than Perfect! ⚡⚡
 
 [개인 블로그](https://sungjjinkang.github.io/) 🌱
 
