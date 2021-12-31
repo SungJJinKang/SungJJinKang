@@ -4,7 +4,7 @@
 
 ### 경력
 - 2015/03 ~ 2017/02 : 한국해양대학교 🎓
-- 2017/03~ : 서울시립대학교 ( 재학중 )🎓
+- 2017/03~ : 서울시립대학교 ( 재학중 ) 🎓
 - 2021/06/28 ~ 2021/08/13 : NCSOFT 인턴 🔥
 
 ### 주요 개발 일지
@@ -15,7 +15,8 @@
 - [멀티스레드로 Front to Back Sorting 하기!](https://sungjjinkang.github.io/computerscience/2021/10/12/MultiThread_SortFrontToBack.html)
 - [clang을 이용한 Reflection 시스템](https://sungjjinkang.github.io/computerscience/gameengine/2021/11/12/reflection.html)
 - [SIMD 명령어를 활용한 std::find](https://sungjjinkang.github.io/computerscience/gameengine/2021/11/28/std_find_simd.html)
-- [reflection 시스템을 이용한 C++ 가비지 컬렉터](https://sungjjinkang.github.io/computerscience/2021/12/01/reflection_gc.html)       
+- [reflection 시스템을 이용한 C++ 가비지 컬렉터](https://sungjjinkang.github.io/computerscience/2021/12/01/reflection_gc.html)      
+- [Masked SW ( CPU ) Occlusion Culling 구현기](https://sungjjinkang.github.io/computerscience/computergraphics/2021/12/31/masked_sw_occlusion_culling.html) 
 
 ### 포트폴리오 영상
 
