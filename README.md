@@ -1,6 +1,6 @@
 ## Done Is Better Than Perfect! ⚡⚡
 
-[Resume](https://drive.google.com/file/d/15xYsuYhaDHqKL0Z9Rdw8QZBkFflV7xrW/view?usp=sharing)           
+[CV](https://drive.google.com/file/d/15xYsuYhaDHqKL0Z9Rdw8QZBkFflV7xrW/view?usp=sharing)           
 [개인 블로그](https://sungjjinkang.github.io/) 🌱
 
 ### 경력 ( Career )
