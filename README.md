@@ -13,7 +13,6 @@
 - [ViewFrustum Culling(렌더링 빨리 하기)](https://sungjjinkang.github.io/doom/c++/computergraphics/game/2021/04/02/viewfrustumculling.html)
 - [게임 엔진에서 메모리 누수를 줄이기 위한 전략 ( 게임 엔진의 오브젝트 관리 )](https://sungjjinkang.github.io/computerscience/gameengine/2021/09/25/dangling_pointer.html)
 - [Static Bathcing 구현하기 ( View Frustum 컬링 적용하기 ) ( 작성 중 )](https://sungjjinkang.github.io/computerscience/computergraphics/2021/09/25/static_batching.html)
-- [멀티스레드로 Front to Back Sorting 하기!](https://sungjjinkang.github.io/computerscience/2021/10/12/MultiThread_SortFrontToBack.html)
 - [clang을 이용한 Reflection 시스템](https://sungjjinkang.github.io/computerscience/gameengine/2021/11/12/reflection.html)
 - [SIMD 명령어를 활용한 std::find](https://sungjjinkang.github.io/computerscience/gameengine/2021/11/28/std_find_simd.html)
 - [reflection 시스템을 이용한 C++ 가비지 컬렉터](https://sungjjinkang.github.io/computerscience/2021/12/01/reflection_gc.html)      
