@@ -17,7 +17,7 @@
 - [SIMD 명령어를 활용한 std::find](https://sungjjinkang.github.io/computerscience/gameengine/2021/11/28/std_find_simd.html)
 - [reflection 시스템을 이용한 C++ 가비지 컬렉터](https://sungjjinkang.github.io/computerscience/2021/12/01/reflection_gc.html)      
 - [Masked SW ( CPU ) Occlusion Culling 구현기](https://sungjjinkang.github.io/computerscience/computergraphics/2021/12/31/masked_sw_occlusion_culling.html) 
-- [OpenGL, D3D11 Portable한 게임 엔진 만들기](https://sungjjinkang.github.io/computerscience/2022/02/02/opengl_dx11_portable_engine.html)             
+- [OpenGL, D3D11 Portable한 게임 엔진 만들기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/02/02/opengl_dx11_portable_engine.html)             
  
 ### 포트폴리오 ( Portfolio )
 
