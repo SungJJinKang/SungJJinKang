@@ -31,6 +31,6 @@
 - 자동화 툴, 개발 툴, 모듈화 ( Development Tool )
 
 ### 출시작 ( Launching Game )
-2016년 : 퇴직 후 치킨집 ( KFC after retirement ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=kr.Hours30000.ChickenShopAfterRetire&hl=ko&gl=US) ( 1인 개발, 유니티 ) ( Developed by one person, Unity Engine )     
-2017년 : 킬러를 찾아라1 ( Find Killer 1 ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=com.NintyNineMillion.FindKiller&hl=ko&gl=US) ( 1인 개발, 유니티, 45만 다운로드 , 플레이스토어 게임 순위 7위 ) ( Developed by one person, Unity Engine, 450,000 Downloads, Play Store Rankings 7th in game category   )          
-2018년 : 킬러를 찾아라2 ( Find Killer 2 ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=com.milli.findkiller2&hl=ko&gl=US) ( 1인 개발, 유니티 ) ( Developed by one person, Unity Engine )          
+2016년 : 퇴직 후 치킨집 ( KFC after retirement ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=kr.Hours30000.ChickenShopAfterRetire&hl=ko&gl=US) ( 유니티 ) ( Developed by one person, Unity Engine )     
+2017년 : 킬러를 찾아라1 ( Find Killer 1 ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=com.NintyNineMillion.FindKiller&hl=ko&gl=US) ( 유니티, 45만 다운로드 , 플레이스토어 게임 순위 7위 ) ( Developed by one person, Unity Engine, 450,000 Downloads, Play Store Rankings 7th in game category   )          
+2018년 : 킬러를 찾아라2 ( Find Killer 2 ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=com.milli.findkiller2&hl=ko&gl=US) ( 유니티 ) ( Developed by one person, Unity Engine )          
