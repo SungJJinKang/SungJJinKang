@@ -1,4 +1,4 @@
-## Done Is Better Than Perfect! ⚡⚡
+## Stay Humble, Hustle Hard!
       
 [개인 블로그](https://sungjjinkang.github.io/) 🌱
 
