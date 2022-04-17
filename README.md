@@ -40,7 +40,7 @@
 
 - 회사 업무 적응, 퍼포먼스 올리기 ( 2022년 )                 
 
-- [자체엔진에 게임 스레드, 렌더링 스레드 분리 구현하기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/20/rendering_thread.html) ( 2022년 1, 2, 3분기 )           
+- [자체엔진에 게임 스레드, 렌더링 스레드 분리 구현하기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/27/lets_make_rendering_thread.html) ( 2022년 1, 2, 3분기 )           
 - 자체엔진에 Z Prepass 구현하기 ( 2022년 1, 2, 3분기 )
 - [JINSTL](https://github.com/SungJJinKang/JINSTL) 완성 ( 2022년  1, 2, 3분기 )                     
 - [UE4_Interactive_Wind_and_Vegetation_in_God_of_War](https://github.com/SungJJinKang/UE4_Interactive_Wind_and_Vegetation_in_God_of_War) 완성 ( 2022년  1, 2, 3분기 )     
