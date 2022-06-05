@@ -7,6 +7,7 @@
 - 2015/03 ~ 2017/02 : 한국해양대학교 ( KOREA MARITIME & OCEAN UNIVERSITY, Bachelor Degree ) 🎓
 - 2017/03 ~ 2022/02 : 서울시립대학교 컴퓨터과학부 ( UNIVERSITY OF SEOUL, COMPUTER SCIENCE, Bachelor Degree ) 🎓
 - 2021/06/28 ~ 2021/08/13 : NCSOFT 인턴 ( NC SOFT INTERN ) 🔥
+- 2022/03/14 ~ : Nexon Korea
           
 ### 주요 개발 일지 ( Development Diary )
            
