@@ -19,7 +19,7 @@
 - [Masked SW ( CPU ) Occlusion Culling 구현기](https://sungjjinkang.github.io/computerscience/computergraphics/2021/12/31/masked_sw_occlusion_culling.html) 
 - [OpenGL, D3D11 Portable한 게임 엔진 만들기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/02/02/opengl_dx11_portable_engine.html)       
 - [Static Bathcing 구현하기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/02/22/static_batching.html)      
-- [자체 게임 엔진에서 게임 스레드, 렌더링 스레드 분리하기 ( 개발 중 )](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/20/rendering_thread.html)              
+- [자체 게임 엔진에서 게임 스레드, 렌더링 스레드 분리하기 ( 개발 중 )](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/27/lets_make_rendering_thread.html)              
 ### 포트폴리오 ( Portfolio )
             
 - [In-house Game Engine](https://github.com/SungJJinKang/DoomsEngine/releases)
