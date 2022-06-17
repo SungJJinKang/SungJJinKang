@@ -1,6 +1,7 @@
 ## Do my best!        
              
 - [개인 블로그](https://sungjjinkang.github.io/) 🌱
+- [CV](https://github.com/SungJJinKang/CV) 🌱
          
 ### 경력 ( Career )        
 
