@@ -1,11 +1,10 @@
-## Do my best!        
+## The more you know, The more you can reward you in places you never imagined.     
              
 - [개인 블로그](https://sungjjinkang.github.io/) 🌱
 - [CV](https://github.com/SungJJinKang/CV) 🌱
          
 ### 경력 ( Career )        
 
-- 2015/03 ~ 2017/02 : 한국해양대학교 ( KOREA MARITIME & OCEAN UNIVERSITY, Bachelor Degree ) 🎓
 - 2017/03 ~ 2022/02 : 서울시립대학교 컴퓨터과학부 ( UNIVERSITY OF SEOUL, COMPUTER SCIENCE, Bachelor Degree ) 🎓
 - 2021/06/28 ~ 2021/08/13 : NCSOFT 인턴 ( NC SOFT INTERN ) 🔥
 - 2022/03/14 ~ : Nexon Korea
@@ -20,30 +19,16 @@
 - [Masked SW ( CPU ) Occlusion Culling 구현기](https://sungjjinkang.github.io/computerscience/computergraphics/2021/12/31/masked_sw_occlusion_culling.html) 
 - [OpenGL, D3D11 Portable한 게임 엔진 만들기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/02/02/opengl_dx11_portable_engine.html)       
 - [Static Bathcing 구현하기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/02/22/static_batching.html)      
-- [자체 게임 엔진에서 게임 스레드, 렌더링 스레드 분리하기 ( 개발 중 )](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/27/lets_make_rendering_thread.html)              
+- [자체 게임 엔진에서 게임 스레드, 렌더링 스레드 분리하기 ( 개발 중 )](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/27/lets_make_rendering_thread.html)             
+
 ### 포트폴리오 ( Portfolio )
             
 - [In-house Game Engine](https://github.com/SungJJinKang/DoomsEngine/releases)
 - [Video](https://youtube.com/playlist?list=PLUg9a0kyCgTR3OhYZYSMauDmjv6D96pVz)      
-         
-### 관심 분야 ( Intersted in )
-           
-- 게임 엔진 ( Game Engine Development )
-- 최적화 ( Optimization )
-- 자동화 툴, 개발 툴, 모듈화 ( Development Tool )
-        
+
 ### 출시작 ( Launching Game )        
 
 - 2016년 : 퇴직 후 치킨집 ( KFC after retirement ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=kr.Hours30000.ChickenShopAfterRetire&hl=ko&gl=US) ( 유니티 ) ( Developed by one person, Unity Engine )     
 - 2017년 : 킬러를 찾아라1 ( Find Killer 1 ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=com.NintyNineMillion.FindKiller&hl=ko&gl=US) ( 유니티, 45만 다운로드 , 플레이스토어 게임 순위 7위 ) ( Developed by one person, Unity Engine, 450,000 Downloads, Play Store Rankings 7th in game category   )          
 - 2018년 : 킬러를 찾아라2 ( Find Killer 2 ) - [플레이스토어, Play Store](https://play.google.com/store/apps/details?id=com.milli.findkiller2&hl=ko&gl=US) ( 유니티 ) ( Developed by one person, Unity Engine )            
-                   
-### TO-DO          
 
-- 회사 업무 적응, 퍼포먼스 올리기 ( 2022년 )                 
-
-- [자체엔진에 게임 스레드, 렌더링 스레드 분리 구현하기](https://sungjjinkang.github.io/computerscience/computergraphics/2022/03/27/lets_make_rendering_thread.html) ( 2022년 1, 2, 3분기 )           
-- ~~자체엔진에 Z Prepass 구현하기 ( 2022년 1, 2, 3분기 )~~
-- [JINSTL](https://github.com/SungJJinKang/JINSTL) 완성 ( 2022년  1, 2, 3분기 )                     
-- [UE4_Interactive_Wind_and_Vegetation_in_God_of_War](https://github.com/SungJJinKang/UE4_Interactive_Wind_and_Vegetation_in_God_of_War) 완성 ( 2022년  1, 2, 3분기 )     
-     
