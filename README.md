@@ -1,5 +1,3 @@
-- [개인 블로그](https://sungjjinkang.github.io/) 🌱
-          
 ### 개인 작업
             
 - [인하우스 게임 엔진](https://github.com/SungJJinKang/DoomsEngine/releases)
